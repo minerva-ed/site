@@ -1,1 +1,1 @@
-# site
+# Minerva homepage
